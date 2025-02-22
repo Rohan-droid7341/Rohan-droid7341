@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rohan-droid7341/Rohan-droid7341/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
